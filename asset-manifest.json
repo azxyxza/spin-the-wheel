@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/spin-the-wheel/static/css/main.1c5b87c9.css",
-    "main.js": "/spin-the-wheel/static/js/main.0ef0bfe2.js",
-    "index.html": "/spin-the-wheel/index.html",
-    "main.1c5b87c9.css.map": "/spin-the-wheel/static/css/main.1c5b87c9.css.map",
-    "main.0ef0bfe2.js.map": "/spin-the-wheel/static/js/main.0ef0bfe2.js.map"
+    "main.css": "/static/css/main.1c5b87c9.css",
+    "main.js": "/static/js/main.0ef0bfe2.js",
+    "index.html": "/index.html",
+    "main.1c5b87c9.css.map": "/static/css/main.1c5b87c9.css.map",
+    "main.0ef0bfe2.js.map": "/static/js/main.0ef0bfe2.js.map"
   },
   "entrypoints": [
     "static/css/main.1c5b87c9.css",
